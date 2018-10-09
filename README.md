@@ -1,34 +1,5 @@
 # distributed-redis-tool
 
-
-
-## Distributed lock
-
-### Features
-
-- [x] High performance.
-- [x] No deadlock.
-- [x] Support Redis cluster, single.
-- [x] Non-blocking lock.
-- [x] blocking lock.
-- [x] Support connection pool.
-- [x] Suppport Spring4.x+.
-
-
-### Quick start
-
-
-
-maven dependency:
-
-```xml
-<dependency>
-    <groupId>top.crossoverjie.opensource</groupId>
-    <artifactId>distributed-redis-tool</artifactId>
-    <version>1.0.4</version>
-</dependency>
-```
-
 Set bean:
 
 ```java
