@@ -1,28 +1,5 @@
 # distributed-redis-tool
 
-## ChangeLog
-
-### v1.0.5
-- Fixed [#9](https://github.com/crossoverJie/distributed-redis-tool/issues/9).
-- Optimization RedisCluster.
-
-### v1.0.4
-- Upgrade distributed lock API.
-- Support connection pool.
-- Improve distributed lock performance :zap:.
-
-### v1.0.3
-
-- Upgrade API.
-- Add Anation.
-- Improve performance :zap: .
-
-
-## Contact
-
-Mail: crossoverJie@gmail.com
-
-![](https://ws2.sinaimg.cn/large/006tKfTcly1fsa01u7ro1j30gs0howfq.jpg)
 
 
 ## Distributed lock
